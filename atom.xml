@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://localhost:4000</id>
+    <title>MADAOLOSER</title>
+    <updated>2021-11-03T17:34:02.080Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://localhost:4000"/>
+    <link rel="self" href="http://localhost:4000/atom.xml"/>
+    <logo>http://localhost:4000/images/avatar.png</logo>
+    <icon>http://localhost:4000/favicon.ico</icon>
+    <rights>All rights reserved 2021, MADAOLOSER</rights>
+    <entry>
+        <title type="html"><![CDATA[起飞啦！~]]></title>
+        <id>http://localhost:4000/post/qi-fei-la-~/</id>
+        <link href="http://localhost:4000/post/qi-fei-la-~/">
+        </link>
+        <updated>2021-11-03T17:31:00.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>起飞~~</p>
+<!-- more -->
+]]></content>
+    </entry>
+</feed>
